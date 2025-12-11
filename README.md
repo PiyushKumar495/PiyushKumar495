@@ -105,7 +105,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PiyushKumar495&theme=tokyonight" />
+<img src="https://streak-stats.vercel.app?user=PiyushKumar495&theme=tokyonight" />
 
 <br/>
 
