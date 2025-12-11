@@ -100,10 +100,16 @@
 # 📊 GitHub Stats & Animation
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://streak-stats.vercel.app/?user=PiyushKumar495&theme=tokyonight" />
 <br>
-<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/languages.svg#gh-dark-mode-only" /> -->
+  <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg" />
+
+<img src="https://streak-stats.demolab.com?user=PiyushKumar495&theme=tokyonight" />
+
+<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/languages.svg" />
+
 </div>
 
 ---
@@ -112,6 +118,7 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar495&theme=tokyonight&no-frame=true" />
+
 
 
 ---
