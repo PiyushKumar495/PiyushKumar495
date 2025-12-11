@@ -100,10 +100,10 @@
 # 📊 GitHub Stats & Animation
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushKumar495&theme=tokyonight&show_icons=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar495&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=PiyushKumar495&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=PiyushKumar495&theme=tokyonight" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar495&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar495&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -111,7 +111,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar495&theme=algolia&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar495&theme=algolia" />
+
 </p>
 
 ---
@@ -127,13 +128,14 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=PiyushKumar495&label=Profile%20Views&color=6&icon=3&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=PiyushKumar495&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
 # 🌊 Wavy Animated Divider
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,50:0088ff,100:000dff&height=150&section=footer&animation=blink" />
+
 
 <!-- END OF AMAZING README -->
