@@ -100,10 +100,10 @@
 # 📊 GitHub Stats & Animation
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushKumar495&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=PiyushKumar495&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://streak-stats.vercel.app/?user=PiyushKumar495&theme=tokyonight" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKumar495&layout=compact&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 ---
@@ -111,9 +111,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar495&theme=algolia" />
+<img src="https://github-profile-trophy.vercel.app/?username=PiyushKumar495&theme=tokyonight&no-frame=true" />
 
-</p>
 
 ---
 
