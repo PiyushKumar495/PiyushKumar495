@@ -100,8 +100,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar495&theme=tokyonight" />
+<!-- <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg" /> -->
 
 <br/>
 
@@ -118,7 +118,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar495&theme=tokyonight" />
+
 </p>
 
 
