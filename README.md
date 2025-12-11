@@ -104,24 +104,24 @@
 <!-- <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg" /> -->
 
 <br/>
-
+<!--
 <img src="https://streak-stats.vercel.app?user=PiyushKumar495&theme=tokyonight" />
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/languages.svg" />
-
+-->
 </div>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <p align="center">
 
 </p>
 
-
+-->
 
 
 ---
