@@ -4,7 +4,8 @@
 
 <!-- 🌈 ANIMATED TYPING HEADING -->
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Piyush+Kumar;Full-Stack+.NET+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Tech!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Piyush%20Kumar&fontAlign=50&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 
 <!-- 🔥 CUSTOM NEON BANNER -->
 
