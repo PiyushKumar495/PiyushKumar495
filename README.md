@@ -113,7 +113,6 @@
 
 </div>
 -->
----
 <!--
 # 🏆 GitHub Trophies
 
@@ -122,9 +121,6 @@
 </p>
 
 -->
-
-
----
 
 # ✍️ Random Dev Quote
 
