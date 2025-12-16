@@ -96,14 +96,14 @@
 **I love solving problems—even the ones I create myself 😄**
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar495&theme=tokyonight" />
 <!-- <img src="https://raw.githubusercontent.com/PiyushKumar495/github-stats/master/generated/overview.svg" /> -->
 
-<br/>
+<br/>-->
 <!--
 <img src="https://streak-stats.vercel.app?user=PiyushKumar495&theme=tokyonight" />
 
