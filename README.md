@@ -138,7 +138,6 @@
 
 ---
 
-# 🌊 Wavy Animated Divider
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,50:0088ff,100:000dff&height=150&section=footer&animation=blink" />
 
