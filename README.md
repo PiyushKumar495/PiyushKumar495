@@ -130,14 +130,6 @@
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PiyushKumar495&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,50:0088ff,100:000dff&height=150&section=footer&animation=blink" width="100%" />
 
