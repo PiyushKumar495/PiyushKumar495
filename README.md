@@ -60,8 +60,8 @@
 
 ### 🔭 I’m currently working on
 
-**E‑Commerce Full‑Stack App (ASP.NET Core + Angular)**
-🔗 [https://github.com/PiyushKumar495/EShoppingWebsite-Project](https://github.com/PiyushKumar495/EShoppingWebsite-Project)
+**FinTrack – Expense Tracker Full-Stack Application**
+🔗 [https://github.com/PiyushKumar495/ExpenseTracker](https://github.com/PiyushKumar495/ExpenseTracker)
 
 ### 👯 I’m looking to collaborate on
 
