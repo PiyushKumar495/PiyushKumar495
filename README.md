@@ -89,7 +89,7 @@
 
 ### 📄 Resume
 
-🔗 [https://drive.google.com/file/d/14XFdg6rjzGfbgA_TThXxnDnm0KJhW6JQ/view?usp=sharing](https://drive.google.com/file/d/14XFdg6rjzGfbgA_TThXxnDnm0KJhW6JQ/view?usp=sharing)
+🔗 [https://drive.google.com/file/d/14XFdg6rjzGfbgA_TThXxnDnm0KJhW6JQ/view?usp=sharing](https://drive.google.com/file/d/1CBdoYGmiadFcof4yI2LFfcw8kZ46eZ3d/view?usp=sharing)
 
 ### ⚡ Fun Fact
 
